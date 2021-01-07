@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: DARK YT
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: Crazy777
 <p align="center">
 <img src="https://media-giphy-com.cdn.ampproject.org/ii/w820/s/media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
 </p>
@@ -40,8 +40,8 @@ INSTALAÇÃO:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| D4RK BOT      |                   Característica        |
-| :-----------: | :------------------------------: |
+| Batman BOT     |                   Característica        |
+| :-----------:  | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
 |       ✅       | Covid (Novo)                      |
@@ -77,7 +77,7 @@ INSTALAÇÃO:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-DARKZIN DOMINA 🐦❤️
+Crazy777 DOMINA 🐦❤️
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
